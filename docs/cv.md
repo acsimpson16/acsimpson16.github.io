@@ -1,8 +1,8 @@
 ---
 layout: page
 title: cv
-permalink: /About/CV/
+permalink: /CV/
 ---
 
 Testing 
-you can [get the PDF]({{ acsimpson16.github.io }}/docs/Aoife_Simpson-CV.pdf) directly.
+you can [get the PDF]({{ acsimpson16.github.io }}/docs/Aoife_Simpson_CV.pdf) directly.
