@@ -1,7 +1,5 @@
 ---
-layout: page
-title: [CV](/Aoife_Simpson_CV.pdf)
-permalink: /CV/
+pdf_local: "/Aoife_Simpson_CV.pdf"
 ---
-
+{% pdf {{ page.pdf_local }} %}
 
