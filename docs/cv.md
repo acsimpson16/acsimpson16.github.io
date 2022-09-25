@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: [CV](/Aoife_Simpson_CV.pdf)
 permalink: /cv/
 
 ---
