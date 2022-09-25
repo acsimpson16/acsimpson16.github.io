@@ -1,8 +1,7 @@
 ---
 layout: page
-title: CV
+title: [CV] (/Aoife_Simpson_CV.pdf)
 permalink: /CV/
 ---
 
-Testing 
-you can [get the PDF]({{ acsimpson16.github.io }}/docs/Aoife_Simpson_CV.pdf) directly.
+
