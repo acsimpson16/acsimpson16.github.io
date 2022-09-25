@@ -6,6 +6,4 @@ permalink: /About/CV/
 
 
 Testing 
-
-
-<embed src="https://acsimpson16.github.io/Docs/Aoife_Simpson_CV.pdf" type="application/pdf" />
+you can [get the PDF]({{ acsimpson16.github.io }}/docs/Aoife_Simpson-CV.pdf) directly.
