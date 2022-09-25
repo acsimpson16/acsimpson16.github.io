@@ -2,7 +2,7 @@ layout: page
 
 title: cv
 
-permalink: /CV/
+permalink: /About/CV/
 
 
 Testing 
